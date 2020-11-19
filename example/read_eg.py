@@ -1,6 +1,6 @@
 import argparse
 
-from logviewtools.loader import PETScLogView
+from logviewtools import PETScLogView
 from logviewtools.data import scalingrun2frame
 
 
