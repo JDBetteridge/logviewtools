@@ -1,6 +1,6 @@
 # PETSc -logview plot and profile
 
-Tools fore examining the profile of PETSc applications.
+Tools for examining the profile of PETSc applications.
 This used the output of the PETSc application run with `-logview` to generate plots.
 
 Internally the logview is converted to a Pandas dataframe.
